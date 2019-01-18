@@ -1,4 +1,6 @@
-En första rad
+En fï¿½rsta rad
 Och en andra rad
 Some changes done in master
 Some text added in test branch
+
+More text
